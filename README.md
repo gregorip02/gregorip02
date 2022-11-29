@@ -5,4 +5,6 @@
 
 I am a computer engineer specialized in backend development with technologies such as PHP & Typescript. Currently working for a US based company and developing fun things with Laravel 😎🐞
 
+**Side projects**
+
 - [Href.ly 🔗](https://app.href.ly)
