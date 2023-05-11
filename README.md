@@ -8,4 +8,4 @@ I am a computer engineer specialized in backend development with technologies su
 **Side projects**
 
 - [Href.ly 🔗](https://app.href.ly)
-- [Emprende Jurídico 💼](https://emprendejuridico.com)
+- [ChatGPT on Telegram 💼](https://t.me/chatgpt4plusbot)
