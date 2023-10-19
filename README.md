@@ -9,3 +9,4 @@ I am a computer engineer specialized in backend development with technologies su
 
 - [Href.ly 🔗](https://app.href.ly)
 - [ChatGPT on Telegram 🤖](https://t.me/chatgpt4plusbot)
+- [Eloquent Club 🗣️](https://eloquentclub.com)
