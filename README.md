@@ -7,5 +7,6 @@ I am a computer engineer specialized in backend development with technologies su
 
 **Side projects**
 
+- [Database Backup as a Service 📦](https://databasebackup.dev)
 - [ChatGPT on Telegram 🤖](https://t.me/chatgpt4plusbot)
 - [Eloquent Club 🗣️](https://eloquentclub.com)
